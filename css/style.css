@@ -1,0 +1,38 @@
+body{
+	margin: 0;
+}
+img{
+	max-width: 100%;
+}
+.banner{
+	
+	text-align: center;
+	padding: 200px 20%;
+}
+.bg-01{
+	background:url("../img/portfolio-item57.jpg");
+	background-attachment: fixed;
+}
+.bg-02{
+	background:url("../img/portfolio-item58.jpg");
+	background-attachment: fixed;
+}
+.bg-03{
+	background:url("../img/portfolio-item59.jpg");
+	background-attachment: fixed;
+}
+h1{
+	margin: 0;
+	font-size: 40px;
+	text-transform: capitalize;
+}
+.banner-box{
+	background-color: #f1c47366;
+	padding: 20px 30px;
+	color: #fff;
+}
+p{
+	color: #8e310ec7;
+    line-height: 31px;
+    font-size: 20px;
+}
